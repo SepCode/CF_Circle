@@ -1,5 +1,5 @@
 # CF_Circle
-iOS多彩旋转圆环
+渐变色旋转环
 >最近在写项目时，需要一个加载动画，看了一下网上没有类似的demo，在这里给大家分享一下，先上效果图：
 
 ![circle.gif](http://upload-images.jianshu.io/upload_images/1907722-578a6b8efa8f0f0a.gif?imageMogr2/auto-orient/strip)
